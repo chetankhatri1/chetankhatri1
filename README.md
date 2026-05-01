@@ -1,11 +1,5 @@
 # Hi, I'm Chetan 👋
 
-**AI & ML Engineer** based in London, UK — specialising in RAG pipelines, LLM applications, and agentic AI systems.
-
-I build production-grade AI applications that bridge large language models with real-world data: retrieval systems, autonomous agents, and intelligent search tools. Currently open to senior AI/ML engineering roles.
-
----
-
 ## 🔨 What I Build
 
 - **RAG Systems** — vector databases, hybrid search, dense retrievers, advanced chunking strategies
