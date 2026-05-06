@@ -56,7 +56,7 @@
 
 - 📧 chetankhatri1@gmail.com
 - 🌍 London, UK
-- 💼 Open to senior AI/ML engineering opportunities
+- 💼 Open to AI/ML engineering opportunities
 
 ---
 
